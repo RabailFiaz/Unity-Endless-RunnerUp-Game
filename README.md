@@ -12,8 +12,8 @@ Endless Runner is a fast-paced, action-packed game developed in Unity. The playe
 
 ## 🛠️ Installation
 ### Playing the Game (Build Version)
-1. **Download the Build:** 
-2. Extract the downloaded ZIP file.
+1. **Download the Build from the provided link:** 
+2. Extract the downloaded .rar file.
 3. Open the extracted folder and run `EndlessRunner.exe` (Windows) or the appropriate file for your OS.
 
 ### Running the Project in Unity
