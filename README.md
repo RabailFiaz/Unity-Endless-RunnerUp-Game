@@ -18,8 +18,7 @@ Endless Runner is a fast-paced, action-packed game developed in Unity. The playe
 
 ### Running the Project in Unity
 1. **Clone the Repository**
-   ```sh
- [(https://github.com/RabailFiaz/Unity-Endless-RunnerUp-Game.git)]
+   ```sh https://github.com/RabailFiaz/Unity-Endless-RunnerUp-Game.git
    ```
 2. Open **Unity Hub** and click on **Add Project**.
 3. Navigate to the cloned folder and open the project.
