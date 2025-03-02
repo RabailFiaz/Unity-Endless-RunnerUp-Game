@@ -12,14 +12,14 @@ Endless Runner is a fast-paced, action-packed game developed in Unity. The playe
 
 ## 🛠️ Installation
 ### Playing the Game (Build Version)
-1. **Download the Build:** [Link to your game build]
+1. **Download the Build:** 
 2. Extract the downloaded ZIP file.
 3. Open the extracted folder and run `EndlessRunner.exe` (Windows) or the appropriate file for your OS.
 
 ### Running the Project in Unity
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/endless-runner.git
+ [  git clone https://github.com/yourusername/endless-runner.git](https://github.com/RabailFiaz/Unity-Endless-RunnerUp-Game.git)
    ```
 2. Open **Unity Hub** and click on **Add Project**.
 3. Navigate to the cloned folder and open the project.
