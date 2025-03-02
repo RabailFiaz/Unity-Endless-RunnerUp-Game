@@ -42,7 +42,7 @@ Endless Runner is a fast-paced, action-packed game developed in Unity. The playe
 
 ## 🔧 Requirements
 - **OS:** Windows / macOS / Linux
-- **Unity Version:** (Specify the Unity version used)
+- **Unity Version:** unity2022.3.53f1
 - **Graphics:** DirectX 11 compatible GPU
 - **Storage:** At least 500MB of free space
 
